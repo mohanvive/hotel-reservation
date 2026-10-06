@@ -1,0 +1,3 @@
+[workspace]
+title = "Hotel Reservation"
+packages = [ "hotel_reservation_service" ]
